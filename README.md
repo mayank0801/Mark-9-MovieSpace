@@ -1,4 +1,4 @@
-# Mark-9-MovieSpace
+# MovieSpace
 ## About: 
 1. The application shows movie details on the basis of preferences selected.
 2. Users are provided with 3 genres of movies.
